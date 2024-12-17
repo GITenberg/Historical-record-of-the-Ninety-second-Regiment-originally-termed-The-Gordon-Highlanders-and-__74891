@@ -1,0 +1,36 @@
+_repo: Historical-record-of-the-Ninety-second-Regiment-originally-termed-The-Gordon-Highlanders-and-__74891
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Cannon, Richard
+    birthdate: 1779
+    deathdate: 1865
+    gutenberg_agent_id: '45414'
+    url: http://www.gutenberg.org/2009/agents/45414
+    wikipedia: https://en.wikipedia.org/wiki/Richard_Cannon
+description: ''
+gutenberg_issued: '2024-12-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74891'
+language: en
+pgterms:marc904:
+- http://babel.hathitrust.org/cgi/pt?id=yale.39002040782956
+- view=1up
+- seq=1
+pgterms:marc905: 20181215003733cannon
+pgterms:marc906: '1851'
+pgterms:marc907: GB
+production_note: Brian Coe, John Campbell and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This book was produced from images made available
+  by the HathiTrust Digital Library.)
+publication_note: '  $aUnited Kingdom :$bParker, Furnivall & Parker, $c1851.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Historical record of the Ninety-second Regiment, originally termed "The Gordon
+  Highlanders" and numbered the Hundredth Regiment : $b Containing an account of the
+  formation of the Regiment in 1794,  and of its subsequent services to 1850'
+url: http://www.gutenberg.org/ebooks/74891
